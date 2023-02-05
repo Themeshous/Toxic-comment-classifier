@@ -1,5 +1,5 @@
 # Toxic comment classifier using DL:
-Our model is created using Deep Learning algorithme.
+Our model is created using Deep Learning algorithm.
 I used gradio to visualize  the results 
 - About the classes :
 
